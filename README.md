@@ -47,3 +47,17 @@ data-engineering-roadmap-hub/
 ## 📐 Metodología de Aprendizaje: El Puente Mental (Industrial to Data)
 
 La Ingeniería de Datos no es más que la gestión de **plantas de procesamiento de fluidos digitales**. A continuación se establece la equivalencia conceptual directa entre la Seguridad Industrial/Minería y la Ingeniería de Datos:
+# 🚀 Data Engineering & AI Roadmap Hub
+
+> **Centro Unificado de Aprendizaje, Control de Tareas y Manual Tecnológico de Ingeniería de Datos**  
+> *Ruta de reconversión profesional basada en la Metodología de Transferencia Tecnológica de Seguridad Industrial y Minería hacia la Arquitectura de Datos e Inteligencia Artificial.*
+
+---
+
+## 🧠 Metodología de Aprendizaje & Fundamento Científico
+
+Para garantizar un aprendizaje efectivo en el cambio de carrera hacia la tecnología, esta ruta aplica tres principios pedagógicos validados científicamente:
+
+1. **Teoría de la Carga Cognitiva (Sweller, 1988)**: Se divide la complejidad técnica en fragmentos pequeños (micro-aprendizaje diario) para no saturar la memoria de trabajo.
+2. **Andamiaje Cognitivo (Vygotsky, 1978)**: Aprendizaje de Cero a Producción, donde cada concepto teórico se acompaña de un ejemplo ejecutable y una autoevaluación.
+3. **Transferencia Analógica Interdominio (Gentner, 1983)**: Conexión entre la gestión de plantas físicas (seguridad industrial, minería) y el procesamiento de fluidos digitales (datos).
