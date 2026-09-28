@@ -37,3 +37,13 @@ data-engineering-roadmap-hub/
 └── 04_datatalksclub_zoomcamp/           <-- Infraestructura, Docker, AI & CI/CD
     ├── module_01_ai_workflows/
     └── module_02_containers_docker/
+    # 🚀 Data Engineering & AI Roadmap Hub
+
+> **Centro Unificado de Aprendizaje, Control de Tareas y Manual Tecnológico de Ingeniería de Datos**  
+> *Ruta de reconversión profesional basada en la Metodología de Transferencia Tecnológica de Seguridad Industrial y Minería hacia la Arquitectura de Datos e Inteligencia Artificial.*
+
+---
+
+## 📐 Metodología de Aprendizaje: El Puente Mental (Industrial to Data)
+
+La Ingeniería de Datos no es más que la gestión de **plantas de procesamiento de fluidos digitales**. A continuación se establece la equivalencia conceptual directa entre la Seguridad Industrial/Minería y la Ingeniería de Datos:
