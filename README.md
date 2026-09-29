@@ -1,12 +1,17 @@
-# 🚀 Data Engineering & AI Roadmap Hub
+# Data Engineering Roadmap Hub
 
-> **Centro Unificado de Aprendizaje, Control de Tareas y Base de Conocimiento Técnico**  
-> *Ruta de reconversión profesional basada en la Metodología de Transferencia Tecnológica de Seguridad Industrial y Minería hacia la Ingeniería de Datos.*
-
----
-
-## 📈 Tablero Maestro de Control, Tareas y Porcentaje de Avance Global
-
-### 📊 Métrica Global de Progreso: [45%]
-```text
-[███████████████████░░░░░░░░░░░░░░░░░░░░░░] 45% Completado
+## 1. Propósito
+## 2. Perfil profesional
+## 3. Objetivo
+## 4. Cómo utilizar este repositorio
+## 5. Arquitectura
+## 6. Currículo independiente
+## 7. Cursos externos
+## 8. Sistema de competencias
+## 9. Método de estudio
+## 10. Evaluaciones
+## 11. Proyectos
+## 12. Learning Log
+## 13. Portfolio
+## 14. Dashboard
+## 15. Estado actual
