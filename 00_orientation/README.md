@@ -94,3 +94,8 @@ Los cursos proporcionan contenido y práctica.
 El repositorio proporciona:
 
 **integración + práctica adicional + evaluación + transferencia + evidencia + mejora continua.**
+00_orientation/
+├── README.md
+├── competency_levels.md
+├── repository_workflow.md
+└── study_method.md
