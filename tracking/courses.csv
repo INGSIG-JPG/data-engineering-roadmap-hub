@@ -1,8 +1,9 @@
-course_id,platform,course_name,status,start_date,end_date,completion_pct
-C01,Coursera / IBM,IBM Data Engineering Professional Certificate,En progreso,2026-08-01,,62
-C02,DataTalksClub,Data Engineering Zoomcamp,En progreso,2026-08-15,,35
-C03,GCI UTokyo,WebLab Data Science,En progreso,2026-08-20,,48
-C04,freeCodeCamp,Relational Database Certification,En progreso,2026-07-10,,41
-C05,SoloLearn,SQL Intermediate,En progreso,2026-07-01,,55
-C06,Select Data,SQL Interactive Course,En progreso,2026-08-05,,30
-C07,Cody,Data Engineering Track,En progreso,2026-08-10,,25
+course_id,platform,course_name,program_track,status,completion_date
+CRS-IBM-DE,Coursera,IBM Data Engineering Professional Certificate,Data Engineering,In Progress,
+CRS-DTC-DE,DataTalksClub,Data Engineering Zoomcamp 2026,Data Engineering,In Progress,
+CRS-DTC-AI,DataTalksClub,AI Dev Tools Zoomcamp,AI & Engineering,Not Started,
+CRS-UTOKYO-GCI,UTokyo,GCI WebLab Data Science 2026,Data Science & DE,In Progress,
+CRS-FCC-PYTHON,freeCodeCamp,Scientific Computing with Python,Foundations,Not Started,
+CRS-SOLO-SQL,SoloLearn,SQL Intermediate,Foundations,Completed,2026-07-15
+CRS-SEL-SQL,Select Data,Interactive SQL for Data Analysis,Foundations,In Progress,
+CRS-CODY-DE,Cody,Cody AI Engineering Workflows,Tools & Productivity,In Progress,
