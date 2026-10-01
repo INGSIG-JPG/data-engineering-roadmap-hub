@@ -1,0 +1,8 @@
+competency_id,category,skill,current_level,last_evaluated,evidence_link
+COMP-CS-001,Foundations,Linux & Terminal,L2,2026-09-25,01_foundations/
+COMP-CS-002,Foundations,Git & GitHub Workflow,L2,2026-09-28,01_foundations/
+COMP-PY-001,Python,OOP & Project Structuring,L1,2026-09-20,02_python/
+COMP-SQL-001,SQL,Complex Joins & Window Functions,L2,2026-09-29,03_sql_databases/
+COMP-SQL-002,SQL,Query Optimization & EXPLAIN,L1,2026-09-15,03_sql_databases/
+COMP-DE-001,DE Core,Docker & Containerization,L1,2026-09-18,05_data_engineering_core/
+COMP-DE-002,DE Core,ETL/ELT Pipelines,L1,2026-09-10,05_data_engineering_core/
