@@ -12,9 +12,3 @@
 - `04_modeling_normalization/` — 1NF, 2NF, 3NF, claves primarias y foráneas.
 - `05_transactions_acid/` — `BEGIN TRANSACTION`, `COMMIT`, `ROLLBACK`, aislamientos.
 - `06_indexing_optimization/` — Índices B-Tree, `EXPLAIN ANALYZE`, planes de ejecución.
-
-## 🧠 Active Recall Benchmark
-<details><summary>❓ ¿Qué diferencia a RANK() de DENSE_RANK()?</summary>
-
-`RANK()` deja saltos en la numeración si hay empates (ej. 1, 2, 2, 4), mientras que `DENSE_RANK()` asigna rangos consecutivos sin saltar números (ej. 1, 2, 2, 3).
-</details>
