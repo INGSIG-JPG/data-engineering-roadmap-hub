@@ -1,33 +1,11 @@
-# Courses
+# 📚 External Courses Tracking
 
-Esta sección registra los cursos y aplicaciones utilizados durante la formación.
+Notas, resúmenes y código de soporte de cursos externos consumidos (Reloj A).
 
-## Función
-
-Los cursos externos son fuentes de aprendizaje.
-
-No constituyen por sí mismos el sistema completo de competencias.
-
-El conocimiento obtenido en ellos será relacionado posteriormente con el currículo independiente del repositorio.
-
-## Fuentes actuales
-
-| Fuente                        | Función                                           |
-| ----------------------------- | ------------------------------------------------- |
-| Coursera IBM Data Engineering | Formación estructurada                            |
-| DataTalksClub                 | Práctica de Data Engineering y proyectos          |
-| GCI UTokyo                    | Python, NumPy, Pandas y fundamentos cuantitativos |
-| freeCodeCamp                  | Práctica y refuerzo                               |
-| SoloLearn                     | Microlearning y recuperación                      |
-| Select Data                   | Formación complementaria                          |
-| Cody / IA                     | Tutoría, debugging y feedback                     |
-
-## Regla
-
-Cada curso deberá relacionarse posteriormente con:
-
-**curso → tema → competencia → práctica → evaluación → evidencia**
-
-## Importante
-
-La finalización de un curso no equivale automáticamente a nivel L3.
+- `coursera_ibm/` — IBM Data Engineering Professional Certificate
+- `datatalksclub/` — Data Engineering Zoomcamp
+- `gci_utokyo/` — WebLab Data Science (University of Tokyo)
+- `freecodecamp/` — Relational Database Certification
+- `sololearn/` — Cursos de SQL y Python
+- `select_data/` — Prácticas interactivas de SQL
+- `cody/` — Exercicios y desafíos de código
