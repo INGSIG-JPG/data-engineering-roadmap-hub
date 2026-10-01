@@ -1,8 +1,7 @@
-competency_id,category,skill,current_level,last_evaluated,evidence_link
-COMP-CS-001,Foundations,Linux & Terminal,L2,2026-09-25,01_foundations/
-COMP-CS-002,Foundations,Git & GitHub Workflow,L2,2026-09-28,01_foundations/
-COMP-PY-001,Python,OOP & Project Structuring,L1,2026-09-20,02_python/
-COMP-SQL-001,SQL,Complex Joins & Window Functions,L2,2026-09-29,03_sql_databases/
-COMP-SQL-002,SQL,Query Optimization & EXPLAIN,L1,2026-09-15,03_sql_databases/
-COMP-DE-001,DE Core,Docker & Containerization,L1,2026-09-18,05_data_engineering_core/
-COMP-DE-002,DE Core,ETL/ELT Pipelines,L1,2026-09-10,05_data_engineering_core/
+competency_id,module_id,competency_name,target_level,current_level,status
+COMP-FOUND-01,01_foundations,Ciclo de vida de datos y arquitecturas (ETL vs ELT),L3,L1,In Progress
+COMP-FOUND-02,01_foundations,Formatos de almacenamiento y modelos OLTP/OLAP,L3,L1,In Progress
+COMP-PY-01,02_python,Manipulación de datos y estructuras avanzadas en Python,L3,L2,In Progress
+COMP-PY-02,02_python,Programación Orientada a Objetos y Modularización para Pipelines,L3,L1,In Progress
+COMP-SQL-01,03_sql_databases,Consultas Complejas y Window Functions en SQL,L3,L2,In Progress
+COMP-SQL-02,03_sql_databases,Diseño de Esquemas Analíticos y Optimización (Indexing/EXPLAIN),L3,L1,In Progress
