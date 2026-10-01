@@ -1,0 +1,5 @@
+assessment_id,module_id,competency_id,assessment_type,score,status,date_completed
+EVAL-FOUND-01,01_foundations,COMP-FOUND-01,Active Recall / Conceptual,100%,Passed,2026-09-28
+EVAL-FOUND-02,01_foundations,COMP-FOUND-02,Caso Práctico / Ingesta,Pending,Not Started,
+EVAL-PY-01,02_python,COMP-PY-01,Debugging & Scripting,Pending,Not Started,
+EVAL-SQL-01,03_sql_databases,COMP-SQL-01,Query Optimization Challenge,Pending,Not Started,
