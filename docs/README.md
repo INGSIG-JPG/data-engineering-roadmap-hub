@@ -1,12 +1,7 @@
+# 📖 System Documentation & Architecture
 
-# 📁 Documentación y Recursos Generales
+Documentos de arquitectura, guías de estilo, referencias técnicas y plantillas metodológicas.
 
-Este directorio contiene los enlaces a las carpetas de materiales, Drive oficial y enlaces a comunidades de los programas de estudio.
-
----
-
-## 🇯🇵 GCI World 2026 (University of Tokyo)
-* **Carpeta de Google Drive**: [Materiales de Estudio UTokyo](https://drive.google.com/drive/u/0/folders/1ek_ShgcTnnMu9Am_3HvdGMYohoX5A9tv)
-
-## 🤖 DataTalksClub - AI Dev Tools Zoomcamp
-* **Repositorio Oficial**: [DataTalksClub/ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
+- `architecture/` — Diagramas y plantillas de diseño (`topic_template.md`).
+- `methodology/` — Fundamentos científicos de Active Recall y Repetición Espaciada.
+- `competency_framework/` — Definición detallada de niveles L0, L1, L2 y L3.
