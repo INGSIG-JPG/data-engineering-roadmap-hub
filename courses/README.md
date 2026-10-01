@@ -8,4 +8,4 @@ Notas, resúmenes y código de soporte de cursos externos consumidos (Reloj A).
 - `freecodecamp/` — Relational Database Certification
 - `sololearn/` — Cursos de SQL y Python
 - `select_data/` — Prácticas interactivas de SQL
-- `cody/` — Exercicios y desafíos de código
+- `cody/` — Ejercicios y desafíos de código
