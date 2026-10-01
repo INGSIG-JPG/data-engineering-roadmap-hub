@@ -1,18 +1,33 @@
-# Método de Estudio y Sistema de Aprendizaje
+Pretest
+↓
+Teoría
+↓
+Ejemplo
+↓
+Práctica guiada
+↓
+Active Recall
+↓
+Práctica independiente
+↓
+Caso nuevo
+↓
+Evaluación
+↓
+Feedback
+↓
+Error
+↓
+Corrección
+↓
+Spaced Repetition
+↓
+Transferencia
 
-## Ciclo Continuo de Aprendizaje
-
-```mermaid
-graph TD
-    A[Pretest] --> B[Teoría]
-    B --> C[Ejemplo]
-    C --> D[Práctica Guiada]
-    D --> E[Active Recall]
-    E --> F[Práctica Independiente]
-    F --> G[Caso Nuevo]
-    G --> H[Evaluación]
-    H --> I[Feedback]
-    I --> J[Error]
-    J --> K[Corrección]
-    K --> L[Spaced Repetition]
-    L --> M[Transferencia]
+R0
+R1
+R3
+R7
+R14
+R30
+R60
