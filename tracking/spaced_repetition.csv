@@ -1,0 +1,5 @@
+review_id,topic_id,topic_name,stage,scheduled_date,status,score_pct
+REV-001,SQL-JOIN,SQL JOINs & Subqueries,R0,2026-09-29,Completado,90
+REV-002,SQL-JOIN,SQL JOINs & Subqueries,R1,2026-09-30,Completado,90
+REV-003,SQL-JOIN,SQL JOINs & Subqueries,R2,2026-10-02,Pendiente,
+REV-004,SQL-GROUP,SQL GROUP BY / HAVING,R0,2026-10-01,Pendiente,
