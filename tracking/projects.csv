@@ -1,0 +1,4 @@
+project_id,module_id,project_name,description,tech_stack,status,repo_path
+PRJ-FOUND-01,01_foundations,Local Ingestion Pipeline,Pipeline de ingesta batch con validación de esquema,Python / Parquet / DuckDB,In Progress,17_portfolio/projects/prj_found_01
+PRJ-PY-01,02_python,API ETL Framework,Framework con reintentos y rate limiting defensivo,Python / Pydantic / Pytest,Not Started,17_portfolio/projects/prj_py_01
+PRJ-SQL-01,03_sql_databases,Dimensional Data Warehouse,Modelado Kimball y optimización de queries analíticas,PostgreSQL / SQL Server 2025,Not Started,17_portfolio/projects/prj_sql_01
